@@ -1,1 +1,1 @@
-console.log("I am cool")
+console.log("new commit")
