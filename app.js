@@ -1,1 +1,1 @@
-console.log("KITZ OOOLALAL")
+console.log("KITZ BO")
